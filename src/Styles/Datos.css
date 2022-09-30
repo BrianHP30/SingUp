@@ -1,0 +1,21 @@
+.partes1{
+    width: 45%;
+    height: 70%;
+}
+
+.title1{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.titleP{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+

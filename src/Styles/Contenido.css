@@ -1,0 +1,26 @@
+.tiempo{
+    margin-left: 6%;
+    width: 90%;
+    border-radius: 5px;
+    outline: none;
+    height: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.datos{
+    width: 90%;
+    height: 90%;
+    background-color: cyan;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.partes{
+    width: 45%;
+    height: 70%;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-right: 2px black solid;
+}

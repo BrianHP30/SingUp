@@ -1,0 +1,38 @@
+.contenedor{
+    height: 600px;
+    width: 50%;
+    background-color: white;
+    margin-left: 25%;
+    margin-top: 70px;
+    border: 2px black solid;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px black;
+    margin-bottom: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: rebeccapurple;
+    /*background: linear-gradient(70deg, rgb(155, 42, 42), rgb(172, 34, 34));*/
+}
+
+
+.boton{
+    width: 30%;
+    border-radius: 5px;
+    outline: none;
+    height: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-left: 35%;
+    box-shadow: 2px 2px black;
+    cursor: pointer;
+    position: relative;
+}
+
+.boton:active{
+    top: 3px;
+    box-shadow: none;
+}

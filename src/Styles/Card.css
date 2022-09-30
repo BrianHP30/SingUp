@@ -1,0 +1,15 @@
+.puntos{
+    width: 95%;
+    border-radius: 5px;
+    outline: none;
+    height: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}

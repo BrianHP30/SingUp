@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+}
+
+.conteiner{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    background-color: rgb(156, 62, 243);
+    border-bottom: 5px black solid;
+    position: sticky;
+    top: 0%;
+}
+
+.titulo{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.division{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    cursor: pointer;
+}
+
+.division p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.division img{
+    width: 70px;
+    height: 100%;
+    object-fit: contain;
+}
+
+.logo{
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.accion{
+    width: 65%;
+    height: 50%;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    border: 1px black solid;
+    box-shadow: 4px  4px 4px black;
+
+}
+
+.accion p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 40px;
+
+}
